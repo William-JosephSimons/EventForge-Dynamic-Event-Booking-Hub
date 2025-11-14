@@ -15,8 +15,8 @@ Bootstrap in under 5 minutes (PHP 8.1+, Composer, Node.js for assets; SQLite for
 1. Clone the repo:
 
     ```bash
-    git clone https://github.com/yourusername/eventforge.git
-    cd eventforge
+    git clone https://github.com/William-JosephSimons/EventForge-Dynamic-Event-Booking-Hub.git
+    cd EventForge-Dynamic-Event-Booking-Hub
     ```
 
 2. Install PHP/JS dependencies:
